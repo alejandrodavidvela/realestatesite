@@ -17,6 +17,7 @@ export const Button = styled(Link)`
     padding: ${({big}) => (big ? '16px 40px' : '14px 24px')};
     color: ${({primary}) => (primary ? '#fff' : '#000D1A')};
     font-size: ${({big}) => (big ? '20px' : '14px')};
+    border-radius: ${({round}) => (round ? '50px' : '0px')};
 
     &:hover {
         transform: translateY(-2px);
