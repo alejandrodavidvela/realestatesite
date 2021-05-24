@@ -1,10 +1,21 @@
-I USED REACTJS, STYLED-COMPONENTS, REACT-ROUTER, AND FRAMER-MOTION.
+## Real Estate Site
+![alt text](main.png)
 
-
-TO RUN LOCALLY GIT CLONE THIS REPO AND RUN NPM I TO INSTALL DEPENDENCIES. THEN NPM START TO RUN ON LOCALHOST. 
-
-
-I HOSTED THE SITE TO CHECK OUT
-
-
+> Check out the site
 https://tiny-art-4893.on.fleek.co/
+
+
+> Real Estate Site with animations. Styled for large monitors as well as mobile devices
+
+
+## Tech Used
+- REACTJS 
+- STYLED-COMPONENTS 
+- REACT-ROUTER
+- REACT HOOKS 
+- FRAMER-MOTION
+
+
+
+
+
