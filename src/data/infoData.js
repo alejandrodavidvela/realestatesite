@@ -1,10 +1,10 @@
-import ImageOne from '../images/interior-1.jpg'
-import ImageTwo from '../images/interior-2.jpg'
+import ImageOne from '../images/house-9.jpg'
+import ImageTwo from '../images/house-8.jpg'
 
 export const InfoData = {
-    heading: 'Explore our beautiful homes',
-    paragraphOne: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Id aliquet lectus proin nibh nisl condimentum id venenatis a. Amet mauris commodo quis imperdiet massa tincidunt.',
-    paragraphTwo: 'Non quam lacus suspendisse faucibus. Et leo duis ut diam quam. Imperdiet proin fermentum leo vel. Pretium aenean pharetra magna ac. Porttitor lacus luctus accumsan tortor posuere ac ut.',
+    heading: 'Find a home that suits your lifestyle.',
+    paragraphOne: 'With experts in every part of the world, we are local everywhere, allowing us to walk alongside our clients at every stage of their journey.',
+    paragraphTwo: 'With innovative technology and unrivaled service, we ensure that your home is connected with buyers, locally and worldwide.',
     buttonLabel: 'View Homes',
     image: ImageOne,
     reverse: false,
@@ -12,9 +12,9 @@ export const InfoData = {
 }
 
 export const InfoDataTwo = {
-    heading: 'Modern Designs',
-    paragraphOne: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Id aliquet lectus proin nibh nisl condimentum id venenatis a. Amet mauris commodo quis imperdiet massa tincidunt.',
-    paragraphTwo: 'Non quam lacus suspendisse faucibus. Et leo duis ut diam quam. Imperdiet proin fermentum leo vel. Pretium aenean pharetra magna ac. Porttitor lacus luctus accumsan tortor posuere ac ut.',
+    heading: 'For those who seek an exceptional home and life, there is only ELIXR',
+    paragraphOne: 'Built on centuries of tradition and dedicated to innovating the luxury real estate industry, ELIXR offers transformative experiences through a global network of exceptional agents.',
+    paragraphTwo: '',
     buttonLabel: 'View Homes',
     image: ImageTwo,
     reverse: true,

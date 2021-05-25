@@ -114,7 +114,7 @@ const Footer = () => {
             <Container>
                 <FooterTop>
                     <Quote>
-                        <h3>Let's find <br/> your Dream Home</h3>
+                        <h3>Exceptional Locations, <br/>  Unrivaled Lifestyles.</h3>
                     </Quote>
                     <FooterInfo>
                         <h4>Contact Us</h4>

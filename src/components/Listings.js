@@ -2,8 +2,8 @@ import React from 'react'
 import { IoMdArrowRoundForward } from 'react-icons/io';
 import {Link} from 'react-router-dom'
 import styled from 'styled-components/macro'
-import HomeOne from '../images/house-1.jpg'
-import HomeTwo from '../images/house-2.jpg'
+import HomeOne from '../images/house-5.jpg'
+import HomeTwo from '../images/house-6.jpg'
 
 const Section = styled.section`
     width: 100%;

@@ -1,7 +1,7 @@
 import React from 'react'
 import styled from 'styled-components'
 import { Button } from './Button';
-import ImageOne from '../images/kitchen-1.jpg'
+import ImageOne from '../images/kitchen-2.jpg'
 
 const Section = styled.section`
   background: #000d1a;
@@ -87,9 +87,9 @@ const Features = () => {
                         data-aos-once='true'
                         data-aos-anchor-placement='center bottom'
                         >
-                            <h1>Stunning Interior</h1>
-                            <p>Lorem Ipsum 2Lorem Ipsum 2Lorem Ipsum 2Lorem Ipsum 2Lorem Ipsum 2Lorem Ipsum 2Lorem Ipsum 2Lorem Ipsum 2</p>
-                            <p>Lorem Ipsum 2Lorem Ipsum 2Lorem Ipsum 2Lorem Ipsum 2Lorem Ipsum 2Lorem Ipsum 2Lorem Ipsum 2Lorem Ipsum 2</p>
+                            <h1>VIEW HOMES, FROM THE COMFORT OF YOURS</h1>
+                            <p>Now more than ever we know that people around the world want virtual options when it comes to buying or selling their home.</p>
+                            <p>Experience luxury homes like never before, all from the comfort of yours.</p>
                             <Button to="/homes">Learn More</Button>
                         </Content>
                     </ColumnLeft>
